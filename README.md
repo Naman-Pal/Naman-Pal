@@ -8,5 +8,5 @@ I'm Naman Pal, an enthusiastic techie with 3+ years of industry experience.
 - 🌱 _**Tools**_ - Azure, Terraform, Docker, Kubernetes, JBoss EAP, Apache Tomcat, Apache HTTP, Nginx, GitLab 
 - 👯 _**Let's build together!**_ - love to collaborate and build awesome projects 
 - 💬 _**[Check out my blogs](https://naman-pal.github.io/aboutme/blog.html)**_ - feel free to ask questions, I enjoy teaching!
-- 📫 _**How to reach me?**_ - [LinkedIn](/https://www.linkedin.com/in/n-pal/)
+- 📫 _**How to reach me?**_ - [LinkedIn](https://www.linkedin.com/in/n-pal/)
 - ⚡ _**Fun fact:**_ I'm also a multi-instrumentalist 🎹, singer 🎤, soccer player ⚽, gym bro 💪,  Canada’s Wonderland 🍁 season pass holder 🎢, and science buff 🔬. I like hosting parties/events 🎉 (multiple successful events under my belt). Currently learning skateboarding 🛹 — aiming to get into surfing 🏄‍♂️.
